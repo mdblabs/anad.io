@@ -1,2 +1,2 @@
 # anad.io
-Anad.io Project repository.
+Anad.io project repository.
